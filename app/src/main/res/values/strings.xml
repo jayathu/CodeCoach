@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CodeCoach</string>
+    <string name="title_home">Home</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_tracker">Tracker</string>
+    <string name="title_questionbank">QuestionBank</string>
+</resources>

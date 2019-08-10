@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_home"
+            android:icon="@drawable/outline_home_white_18dp"
+            android:title="@string/title_home"/>
+
+    <item
+            android:id="@+id/navigation_calendar"
+            android:icon="@drawable/outline_calendar_today_white_18dp"
+            android:title="@string/title_calendar"/>
+
+    <item
+            android:id="@+id/navigation_tracker"
+            android:icon="@drawable/outline_track_changes_white_18dp"
+            android:title="@string/title_tracker"/>
+
+    <item
+            android:id="@+id/navigation_questionbank"
+            android:icon="@drawable/outline_list_alt_white_18dp"
+            android:title="@string/title_questionbank"/>
+
+</menu>
