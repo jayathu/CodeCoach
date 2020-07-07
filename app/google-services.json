@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815368594610",
+    "firebase_url": "https://codability-6edaa.firebaseio.com",
+    "project_id": "codability-6edaa",
+    "storage_bucket": "codability-6edaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815368594610:android:0fd09328069062e13115ab",
+        "android_client_info": {
+          "package_name": "com.laddukutti.codecoach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815368594610-e94vd0lunr32nrhk2dfsao04bfc21bdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY5s98_SQBc_NE2tSxWCAltEwc15S3azs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815368594610-e94vd0lunr32nrhk2dfsao04bfc21bdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
